@@ -13,21 +13,21 @@ import math
 
 ################ settings ################
 # filename without ending
-filename = 'GCE_1Vs-0.01Vs_compensation-900Ohm'
+filename = 'Test-CV-with_Porous-ITO'
 # startposition of datapoints
-a = 0
+a = 90
 # endposition of datapoints to determine linear regression function
-n = 80
+n = 150
 # sweep rate patterns (srp):
 srp = ([1000, 900, 800, 700, 600, 500, 400, 300, 200, 100], 
-       [1000, 900, 800, 700, 600, 500, 400, 300, 200, 100, 50, 30, 20, 10],
+       [1000, 900, 800, 700, 600, 500, 400, 300, 200, 100,  50, 30, 20, 10],
        [1000, 900, 800, 700, 600, 500, 400, 300, 200, 150, 100, 80, 60, 50, 30, 20, 10, 5, 3, 2, 1],
        [1000], 
        [#insert here your own scan rate pattern
        ]
       )
 #select scan rate line 1, 2, 3, 4, etc.
-srl = 2
+srl = 3
 # significant digits of result
 significant_digits = 5
 ##########################################
