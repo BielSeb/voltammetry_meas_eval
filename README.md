@@ -7,6 +7,6 @@ The task is to find the difference in current between the linear beginning of th
 For detailed information about the research work write to benedikt.piller@tum.de. 
 
 ### Detailed Manual
-He also wrote detailed instructions about how to use the Script for their purposes. Have a closer look [here](MANUAL.pdf).
+He also wrote detailed instructions about how to use the script for their purposes. Have a closer look [here](MANUAL.pdf).
 
 ![example evaluation plot](https://github.com/bielseb/voltammetry_meas_eval/blob/main/Test-CV-with_GCE_meas10.png?raw=true)
